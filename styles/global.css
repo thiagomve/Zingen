@@ -30,15 +30,15 @@
     --fw-md: 500;
     --fw-bold: 800;
 
-    --fs-small: 0.875rem;
+    --fs-sm: 0.875rem;
     --fs-base: 1rem;
-    --fs-large: 1.25rem;
+    --fs-lg: 1.25rem;
     --fs-xl: 1.5rem;
     --fs-2xl: 2.5rem;
 
     --py-base: 1rem;
     /*Padding do eixo Y*/
-    --py-large: 1.5rem;
+    --py-lg: 1.5rem;
     --py-xl: 3rem;
 
     --px-lg: 1.5rem;
